@@ -454,6 +454,44 @@
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
     </citeCollection>
-    <!-- END IMAGE DATA ********************   -->
+    <!-- END HMT IMAGE DATA ********************   -->
+    
+    
+    
+    
+    
+    <!-- ARCHIMEDES  PROJECT ********************   -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:codbod8">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://shot.holycross.edu/datans/ecodices"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Codex Bodmer 8</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Images of all pages of the manuscript.</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/"> Openly licensed digital images of Codex Bodmer 8 from the e-codices project..</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">All data in this
+            collection aImages available under the terms of a Creative 
+            Commons license (CC BY-NC 3.0), documenting images also available under 
+            a Creative Commons license (CC BY-NC 3.0)
+            from the e-codices project photography of Cologny, Fondation Martin Bodmer, Cod. Bodmer 8.  
+        </rights>
+        <source
+            type="file"
+            value="cb8imgs.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
+    <!-- END ARCHIMEDES  PROJECT ********************   -->
     
 </collectionService>
