@@ -512,7 +512,7 @@
     </rights>
     <source
         type="file"
-        value="archiemdes/palimpsest-all.csv"/>
+        value="archimedes/palimpsest-all.csv"/>
     <citeProperty name="Image" label="Image URN" type="citeurn"/>
     <citeProperty name="Caption" label="Caption" type="string"/>
     <citeProperty name="Rights" label="Rights" type="string"/>
