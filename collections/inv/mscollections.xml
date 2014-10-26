@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/data/repos/git/op/collections/inventory/CiteCollectionInventory.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<collectionService xmlns="http://chs.harvard.edu/xmlns/cite">
+    
+    <extensionImplementation abbr="image" rdfType="cite:Image"/>
+    
+    
+    <!--  ****************************************************************************  -->
+    <!-- IMAGE COLLECTIONS -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:dorv301img">
+        <namespaceMapping
+            abbr="episteme"
+            fullValue="http://shot.holycross.edu/datans/episteme"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of the D'Orville 301 MS of Euclid</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of the D'Orville 301 MS of Euclid.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> All images made available courtesy of the Clay Mathematical I\
+            nstitute: see http://www.claymath.org/euclids-elements. Commercial use is prohibited.</rights>
+        <source
+            type="file"
+            value="images/dorv301img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:muncg212img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 212</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 212 (Ptolemy's Almagest).</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document images from the Bayerische Staatsbibliothek, 
+            licensed under the Creative Commons 'Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland' license (CC-BY-NC-SA)
+        </rights>
+        <source
+            type="file"
+            value="images/muncg212img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:bpg78img">
+        <namespaceMapping
+            abbr="episteme"
+            fullValue="http://shot.holycross.edu/datans/episteme"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, Bibliothecae Publicae Codex Graecus 78</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, Bibliothecae Publicae Codex Graecus 78 (Ptolemy's Handy Tables).</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection and images they document are available under the terms of
+            a Creative Commons-Attribution-Share Alike license</rights>
+        <source
+            type="file"
+            value="images/bpg78img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:vgf1img">
+        <namespaceMapping
+            abbr="episteme"
+            fullValue="http://shot.holycross.edu/datans/episteme"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, VGF 1</title> 
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Leiden, VGF 1 (atlas to Ptolemy's Geography).</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection and images they document are available under the terms of
+            a Creative Commons-Attribution-Share Alike license</rights>
+        <source
+            type="file"
+            value="images/vgf1img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    <!--  ****************************************************************************  -->
+    
+</collectionService>

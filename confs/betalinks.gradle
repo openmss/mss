@@ -1,0 +1,25 @@
+/* URLs for CITE services, Image Citation Tool, and CITEKit.
+*/
+
+
+project.ext {
+
+    // Where you want to provide query forms for the services
+    queryforms = "http://beta.hpcc.uh.edu/tomcat/mss/svcforms"
+
+    // The four CITE services	    
+    texts  = "http://beta.hpcc.uh.edu/tomcat/mss/texts"
+    indices =  "http://beta.hpcc.uh.edu/tomcat/mss/indices"
+    collections = "http://beta.hpcc.uh.edu/tomcat/mss/collections"
+    images = "http://beta.hpcc.uh.edu/tomcat/mss/images"
+
+
+    // XSLT to use for constructing IIPMooViewer replies
+    mooxslt = "xslt/citeimg_getiipmooviewer.xsl"
+
+    // The image citation tool
+    ict = "http://beta.hpcc.uh.edu/tomcat/mss/ict.html"
+
+    // CiteKit javascript package
+    citekit = "http://beta.hpcc.uh.edu/tomcat/mss/citekit/js/cite-jq.js"
+}
