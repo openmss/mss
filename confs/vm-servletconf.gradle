@@ -29,7 +29,7 @@ project.ext {
     htmlfooter = "citeservlet is free software developed by Christopher Blackwell and Neel Smith."
 
     // Default URNs to populate query forms 
-    demoImage = ""
+    demoImage = "urn:cite:episteme:vgf1img.atlas_1722"
     demoObject = ""
     demoText = ""
 
@@ -38,7 +38,7 @@ project.ext {
     // about this: 9000 is a good default.
     detailWidth = "9000"
 
-    coreCss = "css/episteme.css"
+    coreCss = "css/mss.css"
 
     ckImgSize = "1000"
     defaultContext = "0"

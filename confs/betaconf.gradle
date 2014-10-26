@@ -30,7 +30,7 @@ project.ext {
     htmlfooter = "citeservlet is free software developed by Christopher Blackwell and Neel Smith."
 
     // Default URNs to populate query forms 
-    demoImage = ""
+    demoImage = "urn:cite:episteme:vgf1img.atlas_1722"
     demoObject = ""
     demoText = ""
 

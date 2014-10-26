@@ -5,7 +5,7 @@
 #
 
 echo "Buidling war..."
-/vagrant/bin/build-war.sh /vagrant/repositories/mss/confs/vm-servletconf.gradle -l /vagrant/repositories/mss/confs/vm-servletlinks.gradle -o /vagrant/repositories/mss/servlet
+/vagrant/bin/build-war.sh -c /vagrant/repositories/mss/confs/vm-servletconf.gradle -l /vagrant/repositories/mss/confs/vm-servletlinks.gradle -o /vagrant/repositories/mss/servlet
 
 
 echo "Loading new war into tomcat ..."
