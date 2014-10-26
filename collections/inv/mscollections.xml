@@ -6,7 +6,7 @@
     
     
     <!--  ****************************************************************************  -->
-    <!-- IMAGE COLLECTIONS -->
+    <!-- EPISTEME:  IMAGE COLLECTIONS -->
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:dorv301img">
         <namespaceMapping
             abbr="episteme"
@@ -25,7 +25,7 @@
             nstitute: see http://www.claymath.org/euclids-elements. Commercial use is prohibited.</rights>
         <source
             type="file"
-            value="images/dorv301img.csv"/>
+            value="dorv301img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -52,7 +52,7 @@
         </rights>
         <source
             type="file"
-            value="images/muncg212img.csv"/>
+            value="muncg212img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -78,7 +78,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="images/bpg78img.csv"/>
+            value="bpg78img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -105,7 +105,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="images/vgf1img.csv"/>
+            value="vgf1img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
