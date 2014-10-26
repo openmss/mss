@@ -114,4 +114,39 @@
     
     <!--  ****************************************************************************  -->
     
+    
+    <!--  ****************************************************************************  -->
+    <!-- HD MID projects -->
+    
+    
+    <!-- HC MID LATIN -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:sg570img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of St. Gallen, Stiftsbibliothek, Codex 570</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of St. Gallen, Stiftsbibliothek, Codex 570.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document images made available from the e-codices project,
+            under the terms of the Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) license
+        </rights>
+        <source
+            type="file"
+            value="codsang570img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    <!--  ****************************************************************************  -->
+    
+    
 </collectionService>
