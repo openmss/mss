@@ -491,6 +491,34 @@
     </citeCollection>
     
     
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ap:apimg">
+    <namespaceMapping
+        abbr="ap"
+        fullValue="http://shot.holycross.edu/datans/ap"/>
+    <extension name="image"/>
+    <title
+        xmlns="http://purl.org/dc/elements/1.1/">Images of the Archimedes palimpsest</title>
+    <creator
+        xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+    <coverage
+        xmlns="http://purl.org/dc/elements/1.1/">Images of all pages of the manuscript in different spectral ragnes.</coverage>
+    <description
+        xmlns="http://purl.org/dc/elements/1.1/"> Openly licensed digital images the Archimedes palimpsest from the Archimedes palimsest project project..</description>
+    <rights
+        xmlns="http://purl.org/dc/elements/1.1/">All data in this
+        collection aImages available under the terms of a Creative 
+        Commons license (CC BY-NC 3.0), documenting images also available under 
+        a Creative Commons license (CC BY-NC 3.0).
+    </rights>
+    <source
+        type="file"
+        value="archiemdes/palimpsest-all.csv"/>
+    <citeProperty name="Image" label="Image URN" type="citeurn"/>
+    <citeProperty name="Caption" label="Caption" type="string"/>
+    <citeProperty name="Rights" label="Rights" type="string"/>
+    
+    </citeCollection>
+    
     
     <!-- END ARCHIMEDES  PROJECT ********************   -->
     
