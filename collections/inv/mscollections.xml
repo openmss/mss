@@ -25,7 +25,7 @@
             nstitute: see http://www.claymath.org/euclids-elements. Commercial use is prohibited.</rights>
         <source
             type="file"
-            value="dorv301img.csv"/>
+            value="greek/dorv301img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -52,7 +52,7 @@
         </rights>
         <source
             type="file"
-            value="muncg212img.csv"/>
+            value="greek/muncg212img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -78,7 +78,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="bpg78img.csv"/>
+            value="greek/bpg78img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -105,7 +105,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="vgf1img.csv"/>
+            value="greek/vgf1img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -140,7 +140,7 @@
         </rights>
         <source
             type="file"
-            value="codsang570img.csv"/>
+            value="latin/codsang570img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -483,7 +483,7 @@
         </rights>
         <source
             type="file"
-            value="cb8imgs.csv"/>
+            value="archimedes/cb8imgs.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -521,5 +521,40 @@
     
     
     <!-- END ARCHIMEDES  PROJECT ********************   -->
+    
+    
+    
+    
+    
+    
+    <!-- OTHER HCMID PROJECTS -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:cb48img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://shot.holycross.edu/datans/ecodices"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Codex Bodmer 48</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Images of all pages of the manuscript.</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/"> Openly licensed digital images of Codex Bodmer 48 from the e-codices project..</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">All data in this
+            collection aImages available under the terms of a Creative 
+            Commons license (CC BY-NC 3.0), documenting images also available under 
+            a Creative Commons license (CC BY-NC 3.0)
+            from the e-codices project photography of Cologny, Fondation Martin Bodmer, Cod. Bodmer 48.  
+        </rights>
+        <source
+            type="file"
+            value="english/cb48imgs.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
     
 </collectionService>

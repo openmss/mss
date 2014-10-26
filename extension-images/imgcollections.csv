@@ -18,3 +18,4 @@ urn:cite:hmt:bmpap114,"Images of the Bankes Papyrus (British Museum Papyrus 114)
 urn:cite:hmt:blpd,"Images of illuminated manuscripts in the British Library","@pyramids@/homer/pyramidal/BL-pd",blpd_Label,blpd_Rights
 "urn:cite:ecod:codbod8","Cologny, Fondation Martin Bodmer, Cod. Bodmer 8 (www.e-codices.unifr.ch)","@pyramids@/homer/pyramidal/CodBod8",codbod8_Caption,codbod8_Rights
 "urn:cite:ap:apimg","Freely licensed images from the Archimedes Palimpsest project","@pyramids@/palimpsest/pyramids",apimg_Caption,apimg_Rights
+urn:cite:ecod:cb48img,"Images of Codex Bodmer 8 from the e-codices project","@pyramids@/homer/e-codices/english/CodBod48",codbod8_Label,codbod8_Rights
