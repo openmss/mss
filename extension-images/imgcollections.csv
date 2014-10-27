@@ -20,3 +20,4 @@ urn:cite:hmt:blpd,"Images of illuminated manuscripts in the British Library","@p
 "urn:cite:ap:apimg","Freely licensed images from the Archimedes Palimpsest project","@pyramids@/palimpsest/pyramids",apimg_Caption,apimg_Rights
 urn:cite:ecod:cb48img,"Images of Codex Bodmer 8 from the e-codices project","@pyramids@/homer/e-codices/english/CodBod48",codbod48img_Label,codbod48img_Rights
 urn:cite:bnf:gr2389img,"Images of Bibliothèque nationale de France, Département des manuscrits, Grec 2389","@pyramids@/homer/gallica/bnf2389",gr2389img_Caption,gr2389img_Rights
+urn:cite:bnf:coislin345img,"Images of Bibliothèque nationale de France, Département des manuscrits, Coislin 345","@pyramids@/homer/gallica/coislin345",coislin345img_Caption,coislin345img_Rights
