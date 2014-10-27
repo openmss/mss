@@ -7,6 +7,33 @@
     
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr2389img">
+        <namespaceMapping
+            abbr="bnf"
+            fullValue="http://shot.holycross.edu/datans/bnf"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2389</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2389.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
+        <source
+            type="file"
+            value="greek/bnf2389img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
+    
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:episteme:dorv301img">
         <namespaceMapping
             abbr="episteme"
