@@ -10,7 +10,7 @@
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr2389img">
         <namespaceMapping
             abbr="bnf"
-            fullValue="http://shot.holycross.edu/datans/bnf"/>
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
         <extension name="image"/>
         <title
             xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2389</title>
