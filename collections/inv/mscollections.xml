@@ -175,7 +175,7 @@
     
     
     <!--HMT PROJECT IMAGE DATA ********************   -->
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:bnf2705">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr2705img">
         <namespaceMapping
             abbr="bnf"
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
