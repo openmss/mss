@@ -181,13 +181,13 @@
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
         <extension name="image"/>
         <title
-            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2389</title>
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2700</title>
         <creator
             xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
         <coverage
             xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
         <description
-            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2389.</description>
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2700.</description>
         <rights
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
