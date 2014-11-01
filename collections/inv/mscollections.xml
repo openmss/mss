@@ -7,6 +7,32 @@
     
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr1407img">
+        <namespaceMapping
+            abbr="bnf"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 1407</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 1407.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
+        <source
+            type="file"
+            value="greek/bnf1407img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr1402img">
         <namespaceMapping
             abbr="bnf"
