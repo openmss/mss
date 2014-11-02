@@ -29,7 +29,6 @@ urn:cite:bnf:gr2700img,"Images of Bibliothèque nationale de France, Départemen
 urn:cite:bnf:gr1402img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1402","@pyramids@/homer/gallica/bnf1402",gr1402img_Caption,gr1402img_Rights
 urn:cite:bsb:muncg104img,"Images of Bayerische Staatsbibliothek, Codex Graecus 104","@pyramids@/homer/munich/MunCG104",muncg104img_Caption,muncg104img_Rights
 urn:cite:bnf:gr1407img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1407","@pyramids@/homer/gallica/bnf1407",gr1407img_Caption,gr1407img_Rights
-urn:cite:bnf:lat4802img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 4802","@pyramids@/homer/gallica/bnflat4802",lat4802img_Caption,lat4802img_Rights
 urn:cite:episteme:dorv301img,"Images of the Bodleain MS D'Orville 301, from the Clay Mathematics Institute","@pyramids@/palimpsest/epistemepyramids/DOrv301",dorv301img_Caption,dorv301img_Rights
 urn:cite:ecod:muncg212img,"Images of Bayerische Staatsbibliothek, Codex Graecus 212","@pyramids@/palimpsest/epistemepyramids/MunCG212",muncg212img_Caption,muncg212img_Rights
 urn:cite:episteme:bpg78img,"Images of Leiden, Bibliothecae Publicae Codex Graecus 89","@pyramids@/palimpsest/epistemepyramids/BPG78",bpg78img_Caption,bpg78img_Rights
@@ -62,3 +61,5 @@ urn:cite:bnf:gr1402img,"Images of Bibliothèque nationale de France, Départemen
 urn:cite:bsb:muncg104img,"Images of Bayerische Staatsbibliothek, Codex Graecus 104","@pyramids@/homer/munich/MunCG104",muncg104img_Caption,muncg104img_Rights
 urn:cite:bnf:gr1407img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1407","@pyramids@/homer/gallica/bnf1407",gr1407img_Caption,gr1407img_Rights
 urn:cite:bnf:lat4804img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 4804","@pyramids@/homer/gallica/bnflat4804",lat4804img_Caption,lat4804img_Rights
+urn:cite:bnf:lat4802img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 4802","@pyramids@/homer/gallica/bnflat4802",lat4802img_Caption,lat4802img_Rights
+urn:cite:bnf:lat981img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 981","@pyramids@/homer/gallica/bnflat981",lat981img_Caption,lat981img_Rights
