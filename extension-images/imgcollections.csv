@@ -30,3 +30,35 @@ urn:cite:bnf:gr1402img,"Images of Bibliothèque nationale de France, Départemen
 urn:cite:bsb:muncg104img,"Images of Bayerische Staatsbibliothek, Codex Graecus 104","@pyramids@/homer/munich/MunCG104",muncg104img_Caption,muncg104img_Rights
 urn:cite:bnf:gr1407img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1407","@pyramids@/homer/gallica/bnf1407",gr1407img_Caption,gr1407img_Rights
 urn:cite:bnf:lat4802img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 4802","@pyramids@/homer/gallica/bnflat4802",lat4802img_Caption,lat4802img_Rights
+urn:cite:episteme:dorv301img,"Images of the Bodleain MS D'Orville 301, from the Clay Mathematics Institute","@pyramids@/palimpsest/epistemepyramids/DOrv301",dorv301img_Caption,dorv301img_Rights
+urn:cite:ecod:muncg212img,"Images of Bayerische Staatsbibliothek, Codex Graecus 212","@pyramids@/palimpsest/epistemepyramids/MunCG212",muncg212img_Caption,muncg212img_Rights
+urn:cite:episteme:bpg78img,"Images of Leiden, Bibliothecae Publicae Codex Graecus 89","@pyramids@/palimpsest/epistemepyramids/BPG78",bpg78img_Caption,bpg78img_Rights
+urn:cite:episteme:vgf1img,"Images of Leiden, VGF 1","@pyramids@/palimpsest/epistemepyramids/VGF1",vgf1img_Caption,vgf1img_Rights
+urn:cite:ecod:sg570img,"Images of St. Gallen, Stiftsbibliothek, Codex 570","@pyramids@/homer/e-codices/latin/CodSang570",sg570img_Caption,sg570img_Rights
+"urn:cite:ecod:muncg88img","Images of Bayerische Staatsbibliothek Codex Graecus 88","@pyramids@/homer/pyramidal/MunCG88",muncg88img_Caption,muncg88img_Rights
+"urn:cite:hmt:vbimg","Images of the Venetus B manuscript from the Homer Multitext project","@pyramids@/homer/pyramidal/VenB",vbimg_Label,vbimg_Rights
+"urn:cite:hmt:vaimg","Images of the Venetus A manuscript from the Homer Multitext project","@pyramids@/homer/pyramidal/VenA",vaimg_Label,vaimg_Rights
+"urn:cite:hmt:u4img","Images of manuscript Marciana 841 from the Homer Multitext project","@pyramids@/homer/pyramidal/U4",u4img_Label,u4img_Rights
+"urn:cite:hmt:e3img","Images of manuscript Escorial Upsilon 1.1 from the Homer Multitext project","@pyramids@/homer/pyramidal/E3",e3img_Label,e3img_Rights
+"urn:cite:hmt:e4img","Images of manuscript Escorial Omega 1.12 from the Homer Multitext project","@pyramids@/homer/pyramidal/E4",e4img_Label,e4img_Rights
+"urn:cite:hmt:compimg","Images of Domenico Comparetti, Homeri Ilias cum Scholiis (1901 facsimile edition of Venetus A)","@pyramids@/homer/pyramidal/Comparetti2013",compimg_Label,compimg_Rights
+urn:cite:ecod:gen44,"Images of manuscript Geneva 44 from the e-codices project","@pyramids@/homer/pyramidal/Gen44",gen44_Label,gen44_Rights
+"urn:cite:hmt:e3bifolio","Images of bifolio spreads of the manuscript Escorial Upsilon 1.1 from the Homer Multitext project","@pyramids@/homer/pyramidal/E3-bifolios",e3bifolio_Label,e3bifolio_Rights
+urn:cite:ecod:codbod85,"Images of Codex Bodmer 85 from the e-codices project","@pyramids@/homer/pyramidal/CodBod85",codbod85_Label,codbod85_Rights
+urn:cite:hmt:vgf64img,"Images of Leiden MS VGF 64","@pyramids@/homer/pyramidal/VGF64",vgf64img_Label,vgf64_Rights
+urn:cite:hmt:bmpap114,"Images of the Bankes Papyrus (British Museum Papyrus 114)","@pyramids@/homer/pyramidal/Bankes",bmpap114_Label,bmpap114_Rights
+urn:cite:hmt:blpd,"Images of illuminated manuscripts in the British Library","@pyramids@/homer/pyramidal/BL-pd",blpd_Label,blpd_Rights
+"urn:cite:ecod:codbod8","Cologny, Fondation Martin Bodmer, Cod. Bodmer 8 (www.e-codices.unifr.ch)","@pyramids@/homer/pyramidal/CodBod8",codbod8_Caption,codbod8_Rights
+"urn:cite:ap:apimg","Freely licensed images from the Archimedes Palimpsest project","@pyramids@/palimpsest/pyramids",apimg_Caption,apimg_Rights
+urn:cite:ecod:cb48img,"Images of Codex Bodmer 8 from the e-codices project","@pyramids@/homer/e-codices/english/CodBod48",codbod48img_Label,codbod48img_Rights
+urn:cite:bnf:gr2389img,"Images of Bibliothèque nationale de France, Département des manuscrits, Grec 2389","@pyramids@/homer/gallica/bnf2389",gr2389img_Caption,gr2389img_Rights
+urn:cite:bnf:coislin345img,"Images of Bibliothèque nationale de France, Département des manuscrits, Coislin 345","@pyramids@/homer/gallica/coislin345",coislin345img_Caption,coislin345img_Rights
+urn:cite:bnf:gr2705img,"Images of Bibliothèque nationale de France, Département des manuscrits, Ms. gr. 2705","@pyramids@/homer/gallica/bnf2705",gr2705img_Caption,gr2705img_Rights
+urn:cite:bnf:gr2556img,"Images of Bibliothèque nationale de France, Département des manuscrits, Ms. gr. 2556","@pyramids@/homer/gallica/bnf2556",gr2556img_Caption,gr2556img_Rights
+urn:cite:bnf:grsupp663img,"Images of Bibliothèque nationale de France, Département des manuscrits, supp. gr. 663","@pyramids@/homer/gallica/suppgr663",grsupp663img_Caption,grsupp663img_Rights
+urn:cite:bnf:grsupp652img,"Images of Bibliothèque nationale de France, Département des manuscrits, supp. gr. 652","@pyramids@/homer/gallica/suppgr652",grsupp652img_Caption,grsupp652img_Rights
+urn:cite:bnf:gr2700img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 2700","@pyramids@/homer/gallica/bnf2700",gr2700img_Caption,gr2700img_Rights
+urn:cite:bnf:gr1402img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1402","@pyramids@/homer/gallica/bnf1402",gr1402img_Caption,gr1402img_Rights
+urn:cite:bsb:muncg104img,"Images of Bayerische Staatsbibliothek, Codex Graecus 104","@pyramids@/homer/munich/MunCG104",muncg104img_Caption,muncg104img_Rights
+urn:cite:bnf:gr1407img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 1407","@pyramids@/homer/gallica/bnf1407",gr1407img_Caption,gr1407img_Rights
+urn:cite:bnf:lat4804img,"Images of Bibliothèque nationale de France, Département des manuscrits, lat. 4804","@pyramids@/homer/gallica/bnflat4804",lat4804img_Caption,lat4804img_Rights
