@@ -888,4 +888,31 @@
         
     </citeCollection>
     
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:cp:cpgraec375img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://shot.holycross.edu/datans/ecodices"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Codex Palatinus graecus 375</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Images of all pages of the manuscript.</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/"> Openly licensed digital images of Codex Palatinus graecus 375 from the Universitätsbibliothek Heidelberg.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">Image provided by the Universitätsbibliothek Heidelberg under the terms of the Creative Commons license CC-BY-SA 3.0 DE
+        </rights>
+        <source
+            type="file"
+            value="greek/cp375img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
 </collectionService>
