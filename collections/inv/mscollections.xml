@@ -891,8 +891,8 @@
     
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:cp:cpgraec375img">
         <namespaceMapping
-            abbr="ecod"
-            fullValue="http://shot.holycross.edu/datans/ecodices"/>
+            abbr="cp"
+            fullValue="http://shot.holycross.edu/datans/cp"/>
         <extension name="image"/>
         <title
             xmlns="http://purl.org/dc/elements/1.1/">Images of Codex Palatinus graecus 375</title>
