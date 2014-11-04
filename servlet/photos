@@ -119,7 +119,7 @@ html.html {
                     hasImages = true
 		}
 		if (hasImages) {
-                    ul {
+                    ol {
                         parsedImgs.results.bindings.each { b ->
                             li {
                                 strong ("${b.label?.value}")
