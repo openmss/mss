@@ -8,6 +8,33 @@
     
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr2370img">
+        <namespaceMapping
+            abbr="bnf"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2370</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, Grec 2370.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
+        <source
+            type="file"
+            value="greek/bnf2370img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
+    
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:gr1393img">
         <namespaceMapping
             abbr="bnf"
@@ -935,6 +962,32 @@
         <source
             type="file"
             value="greek/cp375img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg639img">
+        <namespaceMapping
+            abbr="bsb"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 639</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 639.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document images from the Bayerische Staatsbibliothek, 
+            licensed under the Creative Commons 'Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland' license (CC-BY-NC-SA)
+        </rights>
+        <source
+            type="file"
+            value="greek/muncg639img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
