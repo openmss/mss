@@ -215,9 +215,9 @@
         
     </citeCollection>
     
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:muncg212img">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg212img">
         <namespaceMapping
-            abbr="ecod"
+            abbr="bsb"
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
         <extension name="image"/>
         <title
