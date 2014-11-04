@@ -32,3 +32,4 @@ urn:cite:episteme:vgf1img,"Images of Leiden, VGF 1","@pyramids@/palimpsest/epist
 urn:cite:hmt:blpd,"Images of illuminated manuscripts in the British Library","@pyramids@/homer/pyramidal/BL-pd",blpd_Label,blpd_Rights
 urn:cite:hmt:bmpap114,"Images of the Bankes Papyrus (British Museum Papyrus 114)","@pyramids@/homer/pyramidal/Bankes",bmpap114_Label,bmpap114_Rights
 urn:cite:hmt:vgf64img,"Images of Leiden MS VGF 64","@pyramids@/homer/pyramidal/VGF64",vgf64img_Label,vgf64_Rights
+urn:cite:bnf:gr1393img,"Images of Bibliothèque nationale de France, Département des manuscrits, Ms. gr. 1393","@pyramids@/homer/gallica/bnf1393",gr1393img_Caption,gr1393img_Rights
