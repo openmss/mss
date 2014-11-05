@@ -8,7 +8,7 @@
     
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnb:muncg137img">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg137img">
         <namespaceMapping
             abbr="bsb"
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
