@@ -14,13 +14,13 @@
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
         <extension name="image"/>
         <title
-            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 137i</title>
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 137</title>
         <creator
             xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
         <coverage
             xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
         <description
-            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 137i.</description>
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 137.</description>
         <rights
             xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
             a Creative Commons-Attribution-Share Alike license, and document images from the Bayerische Staatsbibliothek, 
