@@ -1,6 +1,6 @@
 "urn:cite:ap:apimg","Freely licensed images from the Archimedes Palimpsest project","@pyramids@/palimpsest/pyramids",apimg_Caption,apimg_Rights
 "urn:cite:ecod:codbod8","Cologny, Fondation Martin Bodmer, Cod. Bodmer 8 (www.e-codices.unifr.ch)","@pyramids@/homer/pyramidal/CodBod8",codbod8_Caption,codbod8_Rights
-"urn:cite:ecod:muncg88img","Images of Bayerische Staatsbibliothek Codex Graecus 88","@pyramids@/homer/pyramidal/MunCG88",muncg88img_Caption,muncg88img_Rights
+"urn:cite:bnb:muncg88img","Images of Bayerische Staatsbibliothek Codex Graecus 88","@pyramids@/homer/pyramidal/MunCG88",muncg88img_Caption,muncg88img_Rights
 "urn:cite:hmt:compimg","Images of Domenico Comparetti, Homeri Ilias cum Scholiis (1901 facsimile edition of Venetus A)","@pyramids@/homer/pyramidal/Comparetti2013",compimg_Label,compimg_Rights
 "urn:cite:hmt:e3bifolio","Images of bifolio spreads of the manuscript Escorial Upsilon 1.1 from the Homer Multitext project","@pyramids@/homer/pyramidal/E3-bifolios",e3bifolio_Label,e3bifolio_Rights
 "urn:cite:hmt:e3img","Images of manuscript Escorial Upsilon 1.1 from the Homer Multitext project","@pyramids@/homer/pyramidal/E3",e3img_Label,e3img_Rights
@@ -36,5 +36,5 @@ urn:cite:bnf:gr1393img,"Images of Bibliothèque nationale de France, Départemen
 urn:cite:bsb:muncg639img,"Images of Bayerische Staatsbibliothek, Codex Graecus 639","@pyramids@/homer/munich/MunCG639",muncg639img_Caption,muncg639img_Rights
 urn:cite:bnf:gr2370img,"Images of Bibliothèque nationale de France, Département des manuscrits, gr. 2370","@pyramids@/homer/gallica/bnf2370",gr2370img_Caption,gr2370img_Rights
 urn:cite:bnf:grsupp1189img,"Images of Bibliothèque nationale de France, Département des manuscrits, supp. gr. 1189","@pyramids@/homer/gallica/suppgr1189",grsupp1189img_Caption,grsupp1189img_Rights
-"urn:cite:ecod:muncg167img","Images of Bayerische Staatsbibliothek Codex Graecus 167","@pyramids@/homer/pyramidal/MunCG167",muncg167img_Caption,muncg167img_Rights
-"urn:cite:ecod:muncg137img","Images of Bayerische Staatsbibliothek Codex Graecus 137","@pyramids@/homer/pyramidal/MunCG137",muncg137img_Caption,muncg137img_Rights
+"urn:cite:bnb:muncg167img","Images of Bayerische Staatsbibliothek Codex Graecus 167","@pyramids@/homer/pyramidal/MunCG167",muncg167img_Caption,muncg167img_Rights
+"urn:cite:bnb:muncg137img","Images of Bayerische Staatsbibliothek Codex Graecus 137","@pyramids@/homer/pyramidal/MunCG137",muncg137img_Caption,muncg137img_Rights
