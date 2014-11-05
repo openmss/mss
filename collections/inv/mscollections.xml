@@ -791,9 +791,9 @@
         <citeProperty name="Rights" label="Rights" type="string"/>
     </citeCollection>
     
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:muncg88img">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg88img">
         <namespaceMapping
-            abbr="ecod"
+            abbr="bsb"
             fullValue="http://www.homermultitext.org/datans/ecod"/>
         <extension name="image"/>
         <title
