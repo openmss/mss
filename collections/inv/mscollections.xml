@@ -1109,7 +1109,7 @@
     
     <citeCollection canonicalId="Codex" label="Label" urn="urn:cite:bsb:mss">
         <namespaceMapping abbr="bsb" fullValue="http://shot.holycross.edu/rdf/bsb"></namespaceMapping>
-        <extension name="codex"/>
+        <!--<extension name="codex"/>-->
         <title xmlns="http://purl.org/dc/elements/1.1/">Manuscripts in the Bayerische Staatsbibliothek</title>
         <citeProperty name="Codex" label="Codex" type="citeurn"/>
         <citeProperty name="Library" label="Library" type="string"></citeProperty>
