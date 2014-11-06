@@ -8,34 +8,30 @@
     
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg415img">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:cp:cpgraec451img">
         <namespaceMapping
-            abbr="bsb"
-            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+            abbr="cp"
+            fullValue="http://shot.holycross.edu/datans/cp"/>
         <extension name="image"/>
         <title
-            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 415</title>
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Codex Palatinus graecus 451</title>
         <creator
             xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
         <coverage
-            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+            xmlns="http://purl.org/dc/elements/1.1/">Images of all pages of the manuscript.</coverage>
         <description
-            xmlns="http://purl.org/dc/elements/1.1/">Images of Bayerische Staatsbibliothek, Codex Graecus 415.</description>
+            xmlns="http://purl.org/dc/elements/1.1/"> Openly licensed digital images of Codex Palatinus graecus 451 from the Universitätsbibliothek Heidelberg.</description>
         <rights
-            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
-            a Creative Commons-Attribution-Share Alike license, and document images from the Bayerische Staatsbibliothek, 
-            licensed under the Creative Commons 'Namensnennung - Keine kommerzielle Nutzung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland' license (CC-BY-NC-SA)
+            xmlns="http://purl.org/dc/elements/1.1/">Image provided by the Universitätsbibliothek Heidelberg under the terms of the Creative Commons license CC-BY-SA 3.0 DE
         </rights>
         <source
             type="file"
-            value="greek/muncg415img.csv"/>
+            value="greek/cp451img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
         
     </citeCollection>
-    
-    
     
     
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg287img">
@@ -64,8 +60,6 @@
         <citeProperty name="Rights" label="Rights" type="string"/>
         
     </citeCollection>
-    
-    
     
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg137img">
         <namespaceMapping
@@ -122,8 +116,6 @@
         
     </citeCollection>
     
-    
-  
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bsb:muncg167img">
         <namespaceMapping
             abbr="bsb"
@@ -499,8 +491,8 @@
     <!--  ****************************************************************************  -->
     
     
-    <!--  ****************************************************************************  -->
-    <!-- HD MID projects -->
+    <!--  *******************************************************************************  -->
+    <!-- HD MID projects ***************************************************************  -->
     
     
     <!-- HC MID LATIN -->
