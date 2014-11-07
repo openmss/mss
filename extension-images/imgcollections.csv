@@ -22,7 +22,6 @@ urn:cite:bnf:lat981img,"Images of Bibliothèque nationale de France, Départemen
 urn:cite:bsb:muncg104img,"Images of Bayerische Staatsbibliothek, Codex Graecus 104","@pyramids@/homer/munich/MunCG104",muncg104img_Caption,muncg104img_Rights
 urn:cite:bsb:muncg212img,"Images of Bayerische Staatsbibliothek, Codex Graecus 212","@pyramids@/palimpsest/epistemepyramids/MunCG212",muncg212img_Caption,muncg212img_Rights
 urn:cite:cp:cpgraec375img,"Images of Codex Palatinus graecus 375","@pyramids@/homer/codpal/cpgraec375",cpgraec375img_Caption,cpgraec375img_Rights
-urn:cite:ecod:cb48img,"Images of Codex Bodmer 8 from the e-codices project","@pyramids@/homer/e-codices/english/CodBod48",codbod48img_Label,codbod48img_Rights
 urn:cite:ecod:codbod85,"Images of Codex Bodmer 85 from the e-codices project","@pyramids@/homer/pyramidal/CodBod85",codbod85_Label,codbod85_Rights
 urn:cite:ecod:gen44,"Images of manuscript Geneva 44 from the e-codices project","@pyramids@/homer/pyramidal/Gen44",gen44_Label,gen44_Rights
 urn:cite:ecod:sg570img,"Images of St. Gallen, Stiftsbibliothek, Codex 570","@pyramids@/homer/e-codices/latin/CodSang570",sg570img_Caption,sg570img_Rights
@@ -43,3 +42,4 @@ urn:cite:bnf:gr1266img,"Images of Bibliothèque nationale de France, Départemen
 "urn:cite:bsb:muncg361aimg","Images of Bayerische Staatsbibliothek Codex Graecus 361 a","@pyramids@/homer/munich/MunCG361",muncg361aimg_Caption,muncg361aimg_Rights
 "urn:cite:bsb:muncg287img","Images of Bayerische Staatsbibliothek Codex Graecus 287","@pyramids@/homer/munich/MunCG287",muncg287img_Caption,muncg287img_Rights
 urn:cite:cp:cpgraec451img,"Images of Codex Palatinus graecus 451","@pyramids@/homer/codpal/cpgraec451",cpgraec451img_Caption,cpgraec451img_Rights
+urn:cite:ecod:cb48img,"Images of Codex Bodmer 8 from the e-codices project","@pyramids@/homer/e-codices/english/CodBod48",cb48img_Label,cb48img_Rights
