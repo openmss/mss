@@ -173,8 +173,27 @@ println urn + ',"' + "${ms}, folio 255b, verso."+ '","' + "${lic}" + '"'
 
 img = 533
 folio = 255
-last = 714
+last = 569 //714
 
+while (img <= last ) {
+  urn = "${imgUrnBase}${img}"
+  String side
+  if (img % 2 == evenMod) {
+    side = "recto"
+    folio++
+  } else {
+    side = "verso"
+  }
+  print urn + ',"' + "${ms}, folio ${folio}, ${side}."+ '","'
+  println "${lic}" + '"'
+  img++
+}
+
+
+// 570 and 571 are dupes
+
+img = 572
+last = 714
 while (img <= last ) {
   urn = "${imgUrnBase}${img}"
   String side
