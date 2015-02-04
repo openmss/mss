@@ -26,7 +26,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnfsupp679img.csv"/>
+            value="imgs/greek/bnfsupp679img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -56,7 +56,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg427img.csv"/>
+            value="imgs/greek/muncg427img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -83,7 +83,7 @@
         </rights>
         <source
             type="file"
-            value="greek/cp18img.csv"/>
+            value="imgs/greek/cp18img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -109,7 +109,7 @@
         </rights>
         <source
             type="file"
-            value="greek/cp415img.csv"/>
+            value="imgs/greek/cp415img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -136,7 +136,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg105img.csv"/>
+            value="imgs/greek/muncg105img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -165,7 +165,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg287img.csv"/>
+            value="imgs/greek/muncg287img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -192,7 +192,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg137img.csv"/>
+            value="imgs/greek/muncg137img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -220,7 +220,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg361aimg.csv"/>
+            value="imgs/greek/muncg361aimg.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -247,7 +247,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg167img.csv"/>
+            value="imgs/greek/muncg167img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -271,7 +271,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnfsupp1189.csv"/>
+            value="imgs/greek/bnfsupp1189.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -295,7 +295,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf2370img.csv"/>
+            value="imgs/greek/bnf2370img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -319,7 +319,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf1393img.csv"/>
+            value="imgs/greek/bnf1393img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -343,7 +343,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="latin/bnflat981img.csv"/>
+            value="imgs/hmt/bnflat981img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -367,7 +367,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="latin/bnflat4804img.csv"/>
+            value="imgs/hmt/bnflat4804img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -391,7 +391,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="latin/bnflat4802img.csv"/>
+            value="imgs/hmt/bnflat4802img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -415,7 +415,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf1407img.csv"/>
+            value="imgs/greek/bnf1407img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -439,7 +439,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf1402img.csv"/>
+            value="imgs/greek/bnf1402img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -466,7 +466,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg104img.csv"/>
+            value="imgs/greek/muncg104img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -490,7 +490,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf2389img.csv"/>
+            value="imgs/greek/bnf2389img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -515,7 +515,7 @@
             nstitute: see http://www.claymath.org/euclids-elements. Commercial use is prohibited.</rights>
         <source
             type="file"
-            value="greek/dorv301img.csv"/>
+            value="imgs/greek/dorv301img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -542,7 +542,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg212img.csv"/>
+            value="imgs/greek/muncg212img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -567,7 +567,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="greek/bpg78img.csv"/>
+            value="imgs/greek/bpg78img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -592,7 +592,7 @@
             a Creative Commons-Attribution-Share Alike license</rights>
         <source
             type="file"
-            value="greek/vgf1img.csv"/>
+            value="imgs/greek/vgf1img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -627,7 +627,7 @@
         </rights>
         <source
             type="file"
-            value="latin/codsang570img.csv"/>
+            value="imgs/hmt/codsang570img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -658,7 +658,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf2700img.csv"/>
+            value="imgs/greek/bnf2700img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -682,7 +682,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnfsupp652.csv"/>
+            value="imgs/greek/bnfsupp652.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -706,7 +706,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnfsupp663.csv"/>
+            value="imgs/greek/bnfsupp663.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -730,7 +730,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf2556img.csv"/>
+            value="imgs/greek/bnf2556img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -754,7 +754,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/bnf2705img.csv"/>
+            value="imgs/greek/bnf2705img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -778,7 +778,7 @@
             xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="greek/coislin345img.csv"/>
+            value="imgs/greek/coislin345img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -806,7 +806,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/vaimgs.csv"/>
+            value="imgs/hmt/vaimgs.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -833,7 +833,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/vbimgs.csv"/>
+            value="imgs/hmt/vbimgs.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -860,7 +860,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/upsilon-1-1.csv"/>
+            value="imgs/hmt/upsilon-1-1.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -889,7 +889,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/e3bifolios.csv"/>
+            value="imgs/hmt/e3bifolios.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -916,7 +916,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/marciana-841.csv"/>
+            value="imgs/hmt/marciana-841.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -943,7 +943,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/vgf64img.csv"/>
+            value="imgs/hmt/vgf64img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -972,7 +972,7 @@
             license (CC-BY-NC-SA)</rights>
         <source
             type="file"
-            value="hmt/muncg88img.csv"/>
+            value="imgs/hmt/muncg88img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -999,7 +999,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/bankes.csv"/>
+            value="imgs/hmt/bankes.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1026,7 +1026,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/blpd.csv"/>
+            value="imgs/hmt/blpd.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1053,7 +1053,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/codbod85.csv"/>
+            value="imgs/hmt/codbod85.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1080,7 +1080,7 @@
             http://creativecommons.org/licenses/by-nc/3.0/deed.en_US</rights>
         <source
             type="file"
-            value="hmt/comparetti-images.csv"/>
+            value="imgs/hmt/comparetti-images.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Label" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1114,7 +1114,7 @@
         </rights>
         <source
             type="file"
-            value="archimedes/cb8imgs.csv"/>
+            value="imgs/archimedes/cb8imgs.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1142,7 +1142,7 @@
     </rights>
     <source
         type="file"
-        value="archimedes/palimpsest-all.csv"/>
+        value="imgs/archimedes/palimpsest-all.csv"/>
     <citeProperty name="Image" label="Image URN" type="citeurn"/>
     <citeProperty name="Caption" label="Caption" type="string"/>
     <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1175,7 +1175,7 @@
         </rights>
         <source
             type="file"
-            value="english/cb48imgs.csv"/>
+            value="imgs/english/cb48imgs.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1200,7 +1200,7 @@
         </rights>
         <source
             type="file"
-            value="greek/cp375img.csv"/>
+            value="imgs/greek/cp375img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1226,7 +1226,7 @@
         </rights>
         <source
             type="file"
-            value="greek/muncg639img.csv"/>
+            value="imgs/greek/muncg639img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -1254,7 +1254,7 @@
         </rights>
         <source
             type="file"
-            value="greek/cp47img.csv"/>
+            value="imgs/greek/cp47img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
