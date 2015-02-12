@@ -25,6 +25,9 @@ github:
 version:          0.12.0
 
 links:
+  - title: Open Paleography
+    url: https://openpaleography.github.io
+    external: true
   - title: Github project
     url: https://github.com/openpaleography/mss
     external: true
