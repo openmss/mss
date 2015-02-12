@@ -6,9 +6,11 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            mss
-tagline:          'Openly licensed images of manuscripts'
-description:      'Sources for openly licensed images include e-codices, the Bavarian State Library, the Homer Multitext project, the Archimedes project, and the Holy Cross Manuscripts, Inscriptions and Documents Club.'
+title:            'Digital manuscripts'
+tagline:          'Openly licensed  data and images'
+description:      'Images, catalogs and data sets modelling manuscripts.'
+
+
 
 baseurl: '/mss/'
 
