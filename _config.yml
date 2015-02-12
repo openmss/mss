@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            mss
+tagline:          'Openly licensed images of manuscripts'
+description:      'Sources for openly licensed images include e-codices, the Bavarian State Library, the Homer Multitext project, the Archimedes project, and the Holy Cross Manuscripts, Inscriptions and Documents Club.'
+
+baseurl: '/mss'
+
+
+author:
+  name:           'Neel Smith'
+ 
+
+paginate:         5
+
+github:
+  repo:           https://github.com/neelsmith/mss
+
+version:          0.12.0
+
+links:
+  - title: Github project
+    url: https://github.com/neelsmith/mss
+    external: true
