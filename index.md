@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Openly licensed images of manuscripts
+title: Digital manuscripts
 ---
 
 Coverage currently includes digital models of forty-five manuscripts in Greek, Latin, English using openly licensed photograpy the from Bavarian State Library, the Homer Multitext project, the Archimedes project, and the Holy Cross Manuscripts, Inscriptions and Documents Club.
