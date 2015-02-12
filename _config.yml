@@ -20,11 +20,11 @@ author:
 paginate:         5
 
 github:
-  repo:           https://github.com/neelsmith/mss
+  repo:           https://github.com/openpaleography/mss
 
 version:          0.12.0
 
 links:
   - title: Github project
-    url: https://github.com/neelsmith/mss
+    url: https://github.com/openpaleography/mss
     external: true
