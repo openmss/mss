@@ -9,6 +9,33 @@
     <!--  ****************************************************************************  -->
     <!-- EPISTEME:  IMAGE COLLECTIONS -->
     
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:ar2484img">
+        <namespaceMapping
+            abbr="bnf"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, ms. arabe 2484</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Bibliothèque nationale de France, Département des manuscrits, ms. arabe 2484</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/">Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
+        <source
+            type="file"
+            value="imgs/arabic/bnf2484_image.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
+    
+    
+    
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:bnf:grsupp679img">
         <namespaceMapping
             abbr="bnf"
@@ -367,7 +394,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="imgs/hmt/bnflat4804img.csv"/>
+            value="imgs/latin/bnflat4804img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -391,7 +418,7 @@
             xmlns="http://purl.org/dc/elements/1.1/"> Public-domain material licensed for free non-commercial use in accordance with the French law 78-753 of July 17, 1978.</rights>
         <source
             type="file"
-            value="imgs/hmt/bnflat4802img.csv"/>
+            value="imgs/latin/bnflat4802img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
@@ -627,7 +654,7 @@
         </rights>
         <source
             type="file"
-            value="imgs/hmt/codsang570img.csv"/>
+            value="imgs/latin/codsang570img.csv"/>
         <citeProperty name="Image" label="Image URN" type="citeurn"/>
         <citeProperty name="Caption" label="Caption" type="string"/>
         <citeProperty name="Rights" label="Rights" type="string"/>
