@@ -22,14 +22,12 @@ author:
 paginate:         5
 
 github:
-  repo:           https://github.com/openpaleography/mss
-
-version:          0.12.0
+  repo:           https://github.com/openmss/mss
 
 links:
-  - title: Open Paleography
-    url: http://openpaleography.github.io
+  - title: Open Manuscript initiative
+    url: http://openmss.github.io
     external: true
-  - title: Github project
-    url: https://github.com/openpaleography/mss
+  - title: Github repository for this project
+    url: https://github.com/openmss/mss
     external: true
