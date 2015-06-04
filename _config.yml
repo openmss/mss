@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'Digital manuscripts'
+title:            'Digital manuscript facsimiles'
 tagline:          'Openly licensed  data and images'
 description:      'Images, catalogs and data sets modelling manuscripts.'
 
