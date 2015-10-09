@@ -689,6 +689,33 @@
         
     </citeCollection>
     
+    
+    
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:ecod:einsiedeln121img">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of St. Gallen, Stiftsbibliothek, Codex 339</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of St. Gallen, Stiftsbibliothek,  Codex 339.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are in the public domain</rights>
+        <source
+            type="file"
+            value="imgs/latin/eins121img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
     <!--  ****************************************************************************  -->
     
     
