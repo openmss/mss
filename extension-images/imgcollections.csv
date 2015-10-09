@@ -49,3 +49,5 @@ urn:cite:bsb:muncg105img,"Images of Bayerische Staatsbibliothek, Codex Graecus 1
 urn:cite:cp:cpgraec47img,"Images of Codex Palatinus graecus 47","@pyramids@/homer/codpal/cpgraec47",cpgraec47img_Caption,cpgraec47img_Rights
 urn:cite:bsb:muncg427img,"Images of Bayerische Staatsbibliothek, Codex Graecus 427","@pyramids@/homer/munich/MunCG427",muncg427img_Caption,muncg427img_Rights
 urn:cite:bnf:grsupp679img,"Images of Bibliothèque nationale de France, Département des manuscrits, supp. gr. 679","@pyramids@/homer/gallica/suppgr679",grsupp679img_Caption,grsupp679img_Rights
+urn:cite:ecod:sg339img,"Images of St. Gallen, Stiftsbibliothek, Codex 339","@pyramids@/homer/e-codices/latin/CodSang339",sg339img_Caption,sg339img_Rights
+urn:cite:ecod:einsiedeln121img,"Images of Einsiedeln, Stiftsbibliothek, Codex 121","@pyramids@/homer/e-codices/latin/Einsiedeln121",einsiedeln121img_Caption,einsiedeln121img_Rights
