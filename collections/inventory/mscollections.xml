@@ -716,6 +716,34 @@
         
     </citeCollection>
     
+    
+    
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:hcmid:gen49bifolioimgs">
+        <namespaceMapping
+            abbr="ecod"
+            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+        <extension name="image"/>
+        <title
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Geneva, Codex 49</title>
+        <creator
+            xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
+        <coverage
+            xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
+        <description
+            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of Geneva MS 49.</description>
+        <rights
+            xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are available under the terms of
+            a Creative Commons-Attribution-Share Alike license, and document public-domain images made available from the e-codices project.
+        </rights>
+        <source
+            type="file"
+            value="imgs/latin/gen49img.csv"/>
+        <citeProperty name="Image" label="Image URN" type="citeurn"/>
+        <citeProperty name="Caption" label="Caption" type="string"/>
+        <citeProperty name="Rights" label="Rights" type="string"/>
+        
+    </citeCollection>
+    
     <!--  ****************************************************************************  -->
     
     
