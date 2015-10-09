@@ -718,7 +718,7 @@
     
     
     
-    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:hcmid:gen49bifolioimgs">
+    <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:hcmid:gen49bifolioimg">
         <namespaceMapping
             abbr="ecod"
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
