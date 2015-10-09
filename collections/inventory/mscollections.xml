@@ -698,13 +698,13 @@
             fullValue="http://www.homermultitext.org/citedata/rdf/"/>
         <extension name="image"/>
         <title
-            xmlns="http://purl.org/dc/elements/1.1/">Images of St. Gallen, Stiftsbibliothek, Codex 339</title>
+            xmlns="http://purl.org/dc/elements/1.1/">Images of Einsiedeln, Stiftsbibliothek, Codex 121</title>
         <creator
             xmlns="http://purl.org/dc/elements/1.1/">Neel Smith</creator>
         <coverage
             xmlns="http://purl.org/dc/elements/1.1/">Photography of the entire MS</coverage>
         <description
-            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of St. Gallen, Stiftsbibliothek,  Codex 339.</description>
+            xmlns="http://purl.org/dc/elements/1.1/">Images from the e-codices project of Einsiedeln, Stiftsbibliothek, Stiftsbibliothek,  Codex 121.</description>
         <rights
             xmlns="http://purl.org/dc/elements/1.1/"> Data in this collection are in the public domain</rights>
         <source
