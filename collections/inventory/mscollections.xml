@@ -720,8 +720,9 @@
     
     <citeCollection canonicalId="Image" label="Caption" urn="urn:cite:hcmid:gen49bifolioimg">
         <namespaceMapping
-            abbr="ecod"
-            fullValue="http://www.homermultitext.org/citedata/rdf/"/>
+            abbr="hcmid"
+            fullValue="http://HCMID.github.io/citedata/rdf/"/>
+        
         <extension name="image"/>
         <title
             xmlns="http://purl.org/dc/elements/1.1/">Images of Geneva, Codex 49</title>
